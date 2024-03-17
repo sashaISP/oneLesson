@@ -1,16 +1,5 @@
-# one_lesson
+# Практическая работа "Столбец строк"
 
-A new Flutter project.
+## Домашняя страница приложения
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/sashaISP/oneLesson/assets/160009685/10766f42-d153-4075-85d9-40d385b57b87)
